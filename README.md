@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danki1015
 - 👀 I’m interested in data scientist, data analyst and big data
-- 🌱 I’m currently learning about data science using Python, R and learning data with MySQL
+- 🌱 Data Analyst in Educational Company
 - 📫 How to reach me in Linkedin : https://www.linkedin.com/in/rizki-ramadhana/
 - 📊 Tableau Profile : https://public.tableau.com/profile/rizki.ramadhana#!/
