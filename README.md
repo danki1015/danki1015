@@ -2,3 +2,4 @@
 - 👀 I’m interested in data analyst and big data
 - 📫 How to reach me in Linkedin : https://www.linkedin.com/in/rizki-ramadhana/
 - 📊 Tableau Profile : https://public.tableau.com/profile/rizki.ramadhana#!/
+- 📊 Power BI Porto : https://drive.google.com/drive/folders/17yRZVPX_OM1xnAhLPWcGf07uj_nC-l1d
